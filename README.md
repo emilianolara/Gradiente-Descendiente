@@ -1,4 +1,5 @@
-###Gradiente descendiente para regresión lineal con python.
+Gradiente descendiente para regresión lineal con python.
+
 **Requisitos**
 
 - Python 2.6
